@@ -5,7 +5,7 @@ from openpyxl import load_workbook
 WORKING_DIR = os.path.dirname(os.path.realpath(__file__))
 
 NAMEPLATE_IN_FILE = os.path.join(WORKING_DIR, "NamePlateTransData.xlsx")
-NAMEPLATE_OUT_FILE = os.path.join(WORKING_DIR, "namePlate", "namePlateTranData.json")
+NAMEPLATE_OUT_FILE = os.path.join(WORKING_DIR, "namePlate", "namePlateTransData.json")
 
 def stringToJson(filename, outputFile):
   wb = load_workbook(filename, read_only = True)
