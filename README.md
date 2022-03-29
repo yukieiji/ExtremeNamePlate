@@ -1,6 +1,6 @@
 # ExtremeNamePlate
 Extreme RolesのアドオンであるExtreme Skinsのネームプレートデータ管理用リポジトリ<br>
-Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこのリポジトリのデータを使用する場合、このリポジトリ自体のライセンス(使用規約)を読み把握した上で各ハットのライセンス(使用規約、LICENSE.md)に従って下さい<br>
+Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこのリポジトリのデータを使用する場合、このリポジトリ自体のライセンス(使用規約)を読み把握した上で各ネームプレートのグループにのライセンス(使用規約、LICENSE.md)に従って下さい<br>
 このリポジトリのライセンスは[こちら](https://github.com/yukieiji/ExtremeNamePlate/blob/main/LICENSE.md)
 
 ## 新しいネームプレートの追加方法
