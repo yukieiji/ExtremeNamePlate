@@ -36,5 +36,17 @@
     },
     "UT_Battle": {
         "11": "\u3055\u3041\u3001\u30d0\u30c8\u30eb\u3060!"
+    },
+    "minicrewmate": {
+        "11": "\u30df\u30cb\u30af\u30eb\u30fc\u30e1\u30a4\u30c8"
+    },
+    "ligftdown": {
+        "11": "\u30e9\u30a4\u30c8\u30c0\u30a6\u30f3"
+    },
+    "CAT": {
+        "11": "\u732b(\u9752)"
+    },
+    "Gentle": {
+        "11": "\u7d33\u58eb"
     }
 }

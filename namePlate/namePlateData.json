@@ -1,7 +1,29 @@
 {
     "yukieiji":
-        ["developerBlue", "developerRed", "starFieldGalaxy", "starFieldNebura", "extremeRolesLogo", "extremeSkinsLogo"],
+        [
+            "developerBlue",
+            "developerRed",
+            "starFieldGalaxy",
+            "starFieldNebura",
+            "extremeRolesLogo",
+            "extremeSkinsLogo"
+        ],
     "YJSiroSakura":
-        ["Niboshi", "SWND", "TJAP", "UT_Battle"],
+        [
+            "Niboshi",
+            "SWND",
+            "TJAP",
+            "UT_Battle"
+        ],
+    "unhapppyset":
+        [
+            "ligftdown",
+            "minicrewmate"
+        ],
+    "Kurodoru":
+        [
+            "CAT",
+            "Gentle"
+        ],
     "updateComitHash": "635a5d3a233a3b40be6ff04078ab4a9e9ffffb57"
 }
