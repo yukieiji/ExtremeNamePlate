@@ -31,5 +31,19 @@
             "CAT",
             "Gentle"
         ],
+    "oyakimon":
+        [
+            "jre",
+            "jrh",
+            "jrk",
+            "jrs",
+            "jrt",
+            "jrw",
+            "kr",
+            "onsen",
+            "tb",
+            "eer",
+            "JNR"
+        ],
     "updateComitHash": "59534e7ec5c25bbfedcb39fbc061994d634ed391"
 }
