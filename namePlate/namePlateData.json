@@ -48,5 +48,13 @@
             "mzm",
             "rirekisyo"
         ],
+    "rapu":
+        [
+            "MechanicalBeast"
+        ],
+    "Nyayuta":
+        [
+            "exit"
+        ],
     "updateComitHash": "6eeca7239b4d57ce1bf79f73ccdbbb5fa1751300"
 }

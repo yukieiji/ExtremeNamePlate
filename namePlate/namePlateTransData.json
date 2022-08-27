@@ -108,5 +108,20 @@
     },
     "rirekisyo": {
         "11": "\u5c65\u6b74\u66f8"
+    },
+    "oer": {
+        "11": "oer"
+    },
+    "ooigawa": {
+        "11": "daitethu"
+    },
+    "ner": {
+        "11": "ner"
+    },
+    "exit": {
+        "11": "\u975e\u5e38\u53e3"
+    },
+    "MechanicalBeast": {
+        "11": "\u6a5f\u68b0\u7363"
     }
 }
