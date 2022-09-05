@@ -18,3 +18,8 @@ Extreme Skins以外のMOD(Extreme Skinsのフォーク等も含めて)でこの�
 
 ## ネームプレートを提供していただいた方々
 - [YJ\*白桜](https://twitter.com/_Sakura_White_)様(ExtremeNamePlateで使えるようにデータ構造を変更しています(ネームプレートデータがGNU General Public License v3.0ライセンスのため詳細を記載))
+- アンハッピーセット様
+- おやきもん様
+- ラプ様
+- クロドル様
+- Nyayuta様
