@@ -1,60 +1,55 @@
 {
-    "yukieiji":
-        [
-            "developerBlue",
-            "developerRed",
-            "starFieldGalaxy",
-            "starFieldNebura",
-            "extremeRolesLogo",
-            "extremeSkinsLogo"
-        ],
-    "YJSiroSakura":
-        [
-            "Niboshi",
-            "SWND",
-            "TJAP",
-            "UT_Battle",
-            "UwU",
-            "Hex",
-            "WDamogus",
-            "Window",
-            "Sabori",
-            "FastFooSUS"
-        ],
-    "unhappyset":
-        [
-            "ligftdown",
-            "minicrewmate"
-        ],
-    "Kurodoru":
-        [
-            "CAT",
-            "Gentle"
-        ],
-    "oyakimon":
-        [
-            "jre",
-            "jrh",
-            "jrk",
-            "jrs",
-            "jrt",
-            "jrw",
-            "kr",
-            "onsen",
-            "tb",
-            "eer",
-            "JNR",
-            "oigawa",
-            "mzm",
-            "rirekisyo"
-        ],
-    "rapu":
-        [
-            "MechanicalBeast"
-        ],
-    "Nyayuta":
-        [
-            "exit"
-        ],
-    "updateComitHash": "d90817efd85cf4606e4242237e0ca0f6be1b32f6"
+  "updateComitHash": "",
+  "Kurodoru": [
+    "CAT",
+    "Gentle"
+  ],
+  "Nyayuta": [
+    "exit"
+  ],
+  "oyakimon": [
+    "eer",
+    "JNR",
+    "jre",
+    "jrh",
+    "jrk",
+    "jrs",
+    "jrt",
+    "jrw",
+    "kr",
+    "mzm",
+    "ner",
+    "oer",
+    "oigawa",
+    "onsen",
+    "rirekisyo",
+    "tb"
+  ],
+  "rapu": [
+    "MechanicalBeast"
+  ],
+  "unhappyset": [
+    "ligftdown",
+    "minicrewmate"
+  ],
+  "YJSiroSakura": [
+    "FastFooSUS",
+    "Hex",
+    "Niboshi",
+    "Sabori",
+    "SWND",
+    "TJAP",
+    "UT_Battle",
+    "UwU",
+    "WDamogus",
+    "Window"
+  ],
+  "yukieiji": [
+    "developerBlue",
+    "developerRed",
+    "extremeRolesLogo",
+    "extremeSkinsLogo",
+    "starFieldGalaxy",
+    "starFieldNebura"
+  ]
 }
