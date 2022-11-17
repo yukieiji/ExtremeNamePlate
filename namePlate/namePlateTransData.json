@@ -64,6 +64,27 @@
     "Pinklwl": {
         "11": "lwl"
     },
+    "CampfireCat": {
+        "11": "\u30ad\u30e3\u30f3\u30d7\u3059\u308b\u306d\u3053"
+    },
+    "DoubleCat": {
+        "11": "\u3060\u3076\u308b\u306d\u3053"
+    },
+    "GlassCat": {
+        "11": "\u8349\u306e\u4e2d\u3067\u5bdd\u308b\u306d\u3053"
+    },
+    "MagicCat": {
+        "11": "\u307e\u307b\u3046\u306d\u3053"
+    },
+    "MetalicCat": {
+        "11": "\u6a5f\u68b0\u3092\u3044\u3058\u308b\u306d\u3053"
+    },
+    "PastelCat": {
+        "11": "\u3071\u3059\u3066\u308b\u306d\u3053"
+    },
+    "SoupCat": {
+        "11": "\u306d\u3053\u3068\u30b9\u30fc\u30d7"
+    },
     "minicrewmate": {
         "11": "\u30df\u30cb\u30af\u30eb\u30fc\u30e1\u30a4\u30c8"
     },
