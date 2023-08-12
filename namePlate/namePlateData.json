@@ -1,48 +1,55 @@
 {
-  "updateComitHash": "01c7905e6fd6f665f70013707107ecca34fc12c3",
-  "rapu": [
-    "MechanicalBeast"
+  "updateComitHash": "c4132d141b7b4dec2346f55dde5da4d5d58b4107",
+  "oyakimon": [
+    "rirekisyo",
+    "oigawa",
+    "jrk",
+    "oer",
+    "eer",
+    "JNR",
+    "ner",
+    "kr",
+    "jrw",
+    "mzm",
+    "jrt",
+    "tb",
+    "jrs",
+    "jrh",
+    "ZUNDA",
+    "onsen",
+    "jre"
   ],
-  "yukieiji": [
-    "extremeRolesLogo",
-    "developerRed",
-    "developerBlue",
-    "starFieldNebura",
-    "starFieldGalaxy",
-    "extremeSkinsLogo"
+  "YJSiroSakura": [
+    "Window",
+    "SWND",
+    "KUSA",
+    "Sabori",
+    "UwU",
+    "Omochi",
+    "GlassCat",
+    "DoubleCat",
+    "SoupCat",
+    "Niboshi",
+    "Hex",
+    "UT_Battle",
+    "CampfireCat",
+    "MagicCat",
+    "TJAP",
+    "Virtual",
+    "HatterPlate",
+    "YJRob",
+    "Jitome",
+    "FastFooSUS",
+    "Nyanko",
+    "MetalicCat",
+    "WDamogus",
+    "PInklwl",
+    "Snowy",
+    "PastelCat"
   ],
   "Kurodoru": [
     "CAT",
     "Gentle"
-  ],
-  "unhappyset": [
-    "minicrewmate",
-    "ligftdown"
-  ],
-  "YJSiroSakura": [
-    "PInklwl",
-    "Nyanko",
-    "FastFooSUS",
-    "UT_Battle",
-    "Hex",
-    "YJRob",
-    "SWND",
-    "Snowy",
-    "TJAP",
-    "Sabori",
-    "DoubleCat",
-    "GlassCat",
-    "Window",
-    "Niboshi",
-    "Omochi",
-    "SoupCat",
-    "PastelCat",
-    "MetalicCat",
-    "WDamogus",
-    "MagicCat",
-    "Virtual",
-    "CampfireCat",
-    "UwU"
   ],
   "Nyayuta": [
     "exit"
@@ -50,23 +57,19 @@
   "Pirohiko": [
     "Famibe"
   ],
-  "oyakimon": [
-    "jrw",
-    "jrs",
-    "eer",
-    "onsen",
-    "jrt",
-    "jre",
-    "JNR",
-    "jrk",
-    "mzm",
-    "rirekisyo",
-    "jrh",
-    "ZUNDA",
-    "ner",
-    "oigawa",
-    "oer",
-    "tb",
-    "kr"
+  "rapu": [
+    "MechanicalBeast"
+  ],
+  "unhappyset": [
+    "minicrewmate",
+    "ligftdown"
+  ],
+  "yukieiji": [
+    "extremeRolesLogo",
+    "extremeSkinsLogo",
+    "starFieldNebura",
+    "starFieldGalaxy",
+    "developerBlue",
+    "developerRed"
   ]
 }
