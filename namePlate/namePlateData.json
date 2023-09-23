@@ -1,26 +1,46 @@
 {
-  "updateComitHash": "b2d7f4ec102fc287f79ee7d05a7b4f5a07b89a3a",
-  "Nyayuta": [
-    "exit"
+  "updateComitHash": "",
+  "YJSiroSakura": [
+    "HatterPlate",
+    "GlassCat",
+    "Omochi",
+    "Sabori",
+    "PastelCat",
+    "MagicCat",
+    "Virtual",
+    "UwU",
+    "Snowy",
+    "Hex",
+    "WDamogus",
+    "UT_Battle",
+    "FastFooSUS",
+    "Window",
+    "SoupCat",
+    "YJRob",
+    "KUSA",
+    "MetalicCat",
+    "Nyanko",
+    "Niboshi",
+    "SWND",
+    "Jitome",
+    "TJAP",
+    "DoubleCat",
+    "CampfireCat",
+    "PInklwl"
   ],
-  "oyakimon": [
-    "ner",
-    "oigawa",
-    "ZUNDA",
-    "jre",
-    "jrt",
-    "jrh",
-    "onsen",
-    "jrk",
-    "eer",
-    "jrw",
-    "kr",
-    "rirekisyo",
-    "tb",
-    "JNR",
-    "mzm",
-    "jrs",
-    "oer"
+  "Nigelfuan": [
+    "GTS_ZhongShengDai",
+    "komonuerusu",
+    "jiyurashitsukuFeng",
+    "GTS_XinShengDai",
+    "GTS_GuShengDai"
+  ],
+  "Kurodoru": [
+    "CAT",
+    "Gentle"
+  ],
+  "Pirohiko": [
+    "Famibe"
   ],
   "rapu": [
     "MechanicalBeast"
@@ -29,50 +49,37 @@
     "minicrewmate",
     "ligftdown"
   ],
-  "Pirohiko": [
-    "Famibe"
-  ],
   "sabanecko": [
     "Helloworld"
   ],
+  "oyakimon": [
+    "oigawa",
+    "ner",
+    "eer",
+    "jrk",
+    "jrs",
+    "jrh",
+    "JNR",
+    "rirekisyo",
+    "jre",
+    "tb",
+    "oer",
+    "mzm",
+    "jrw",
+    "ZUNDA",
+    "kr",
+    "onsen",
+    "jrt"
+  ],
+  "Nyayuta": [
+    "exit"
+  ],
   "yukieiji": [
-    "starFieldGalaxy",
     "developerRed",
+    "developerBlue",
     "starFieldNebura",
-    "extremeSkinsLogo",
     "extremeRolesLogo",
-    "developerBlue"
-  ],
-  "YJSiroSakura": [
-    "MagicCat",
-    "KUSA",
-    "GlassCat",
-    "SoupCat",
-    "Hex",
-    "FastFooSUS",
-    "PastelCat",
-    "Nyanko",
-    "HatterPlate",
-    "Snowy",
-    "WDamogus",
-    "Jitome",
-    "MetalicCat",
-    "PInklwl",
-    "UwU",
-    "Niboshi",
-    "Omochi",
-    "DoubleCat",
-    "TJAP",
-    "Sabori",
-    "UT_Battle",
-    "Window",
-    "YJRob",
-    "Virtual",
-    "SWND",
-    "CampfireCat"
-  ],
-  "Kurodoru": [
-    "Gentle",
-    "CAT"
+    "extremeSkinsLogo",
+    "starFieldGalaxy"
   ]
 }

@@ -177,5 +177,25 @@
     },
     "Famibe": {
         "11": "\u4efb\u610f\u30b3\u30fc\u30c9"
+    },
+    "GTS_GuShengDai": {
+        "0": "Paleozoic",
+        "11": "\u53e4\u751f\u4ee3"
+    },
+    "GTS_ZhongShengDai": {
+        "0": "Mesozoic",
+        "11": "\u4e2d\u751f\u4ee3"
+    },
+    "GTS_XinShengDai": {
+        "0": "Cenozoic",
+        "11": "\u65b0\u751f\u4ee3"
+    },
+    "komonuerusu": {
+        "0": "Commonwealth of Nations",
+        "11": "\u30b3\u30e2\u30f3\u30a6\u30a7\u30eb\u30b9"
+    },
+    "jiyurashitsukuFeng": {
+        "0": "Jurassic-ish",
+        "11": "\u30b8\u30e5\u30e9\u30b7\u30c3\u30af\u98a8"
     }
 }
