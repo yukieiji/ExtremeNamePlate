@@ -216,5 +216,13 @@
     "Fish_facing_each_other": {
         "0": "Fish facing each other",
         "11": "\u5411\u304d\u5408\u3046\u9b5a"
+    },
+    "guesser": {
+        "0": "guesser",
+        "11": "\u30b2\u30c3\u30b5\u30fc"
+    },
+    "cotton_candy": {
+        "0": "cotton candy",
+        "11": "\u30b3\u30c3\u30c8\u30f3\u30ad\u30e3\u30f3\u30c7\u30a3\u30fc"
     }
 }
